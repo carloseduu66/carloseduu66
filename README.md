@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Sistemas de Informação e e
 
 - 👨‍💻 Estudante de Sistemas de Informação.
 - 💼 Experiência em suporte técnico e desenvolvimento de sistemas.
-- 🛠️ Tecnologias que utilizo: Python, Java, HTML, CSS, JavaScript, SQL, Git, entre outras.
+- 🛠️ Tecnologias que utilizo: Python, Java, SQL, Git.
 - 🚀 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
 
 🔧 Tecnologias e Ferramentas:
