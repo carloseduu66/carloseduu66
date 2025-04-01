@@ -16,9 +16,9 @@ Ferramentas: Git, GitHub, VS Code, Eclipse.
 Bancos de Dados: MySQL, PostgreSQL, SQLite.
 
 <!-- Linguagens -->
-![Linguagens de Programação](https://img.shields.io/github/languages/top/carloseduu66?color=blue&label=Python&style=flat-square)
-![Linguagens de Programação](https://img.shields.io/github/languages/top/carloseduu66?color=yellow&label=Java&style=flat-square)
-![Linguagens de Programação](https://img.shields.io/github/languages/top/carloseduu66?color=red&label=SQL&style=flat-square)
+![Linguagens de Programação](https://img.shields.io/github/languages/top/carloseduu66/REPO_NAME?color=blue&style=flat-square)  
+![Linguagens de Programação](https://img.shields.io/github/languages/top/carloseduu66/REPO_NAME?color=yellow&style=flat-square)  
+![Linguagens de Programação](https://img.shields.io/github/languages/top/carloseduu66/REPO_NAME?color=red&style=flat-square)
 
 📬 **Como me encontrar:**
 
