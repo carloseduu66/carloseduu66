@@ -15,11 +15,8 @@ Linguagens de Programação: Python, Java, SQL.
 Ferramentas: Git, GitHub, VS Code, Eclipse.  
 Bancos de Dados: MySQL, PostgreSQL, SQLite.
 
-<!-- Linguagens -->
-![Linguagens de Programação](https://img.shields.io/github/languages/top/carloseduu66/Jokenpo?color=blue&style=flat-square)
-![Linguagens de Programação](https://img.shields.io/github/languages/top/carloseduu66/Jokenpo?color=yellow&style=flat-square)
-![Linguagens de Programação](https://img.shields.io/github/languages/top/carloseduu66/Jokenpo?color=red&style=flat-square)
-
+<!-- GitHub Stats -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduu66&layout=compact&langs_count=10&theme=dracula)
 
 📬 **Como me encontrar:**
 
