@@ -16,7 +16,7 @@ Ferramentas: Git, GitHub, VS Code, Eclipse.
 Bancos de Dados: MySQL, PostgreSQL, SQLite.
 
 <!-- GitHub Stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduu66&layout=compact&langs_count=10&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduu66&layout=compact&langs_count=8&theme=tokyonight&hide=html,css)
 
 📬 **Como me encontrar:**
 
