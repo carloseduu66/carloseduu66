@@ -9,21 +9,29 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Sistemas de Informação na 
 🛠️ Tecnologias que utilizo: Python, Java, SQL, Git.  
 🚀 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
 
-🔧 **Tecnologias e Ferramentas:**
+---
 
-Linguagens de Programação: Python, Java, SQL.  
-Ferramentas: Git, GitHub, VS Code, Eclipse.  
-Bancos de Dados: MySQL, PostgreSQL, SQLite.
+### 🔧 **Tecnologias e Ferramentas:**
 
+#### 📊 **Linguagens mais usadas**:
 <!-- GitHub Stats com Porcentagens -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduu66&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&card_width=320)
 
-<!-- Ícones das Linguagens -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+---
 
-📬 **Como me encontrar:**
+#### 🛠️ **Principais Tecnologias**:
 
-Email: carloseduardogurgel2016@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/carloseduu66/](https://www.linkedin.com/in/carloseduu66/)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+</p>
+
+---
+
+### 📬 **Como me encontrar:**
+
+📧 Email: carloseduardogurgel2016@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/carloseduu66/](https://www.linkedin.com/in/carloseduu66/)
