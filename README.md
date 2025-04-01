@@ -15,7 +15,10 @@ Linguagens de Programação: Python, Java, SQL.
 Ferramentas: Git, GitHub, VS Code, Eclipse.  
 Bancos de Dados: MySQL, PostgreSQL, SQLite.
 
-<!-- GitHub Language Icons -->
+<!-- GitHub Stats com Porcentagens -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduu66&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&card_width=320)
+
+<!-- Ícones das Linguagens -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
