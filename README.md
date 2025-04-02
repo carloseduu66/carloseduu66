@@ -1,27 +1,34 @@
-# Olá, eu sou Carlos Eduardo Gurgel 👋
+# 👋 Olá, eu sou Carlos Eduardo Gurgel  
 
-Bem-vindo ao meu perfil do GitHub! Sou estudante de Sistemas de Informação na Universidade Federal do Ceará - Quixadá (UFC-Quixadá) e estou em busca de novas oportunidades de estágio na área de tecnologia. Tenho experiência em suporte técnico, manutenção de sistemas e desenvolvimento de soluções. Aqui você encontrará projetos relacionados à minha jornada acadêmica e profissional.
-
-📚 **Sobre mim:**
-
-👨‍💻 Estudante de Sistemas de Informação.  
-💼 Experiência em suporte técnico e desenvolvimento de sistemas.  
-🛠️ Tecnologias que utilizo: Python, Java, SQL, Git.  
-🚀 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades.
+Bem-vindo ao meu perfil do GitHub! Sou estudante de **Sistemas de Informação** e apaixonado por tecnologia.  
+Tenho experiência com **suporte técnico, manutenção de sistemas e desenvolvimento de soluções**.  
+Aqui você encontrará projetos que fazem parte da minha **jornada acadêmica e profissional**.  
 
 ---
 
-### 🔧 **Tecnologias e Ferramentas:**
-
-#### 📊 **Linguagens mais usadas**:
-<!-- GitHub Stats com Porcentagens -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduu66&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&card_width=320)
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carloseduu66&show_icons=true&theme=tokyonight&hide_title=false&count_private=true"/>
+</p>
 
 ---
 
-#### 🛠️ **Principais Tecnologias**:
+## 🔥 **Contribuições Recentes**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduu66&theme=tokyonight"/>
+</p>
 
-<p align="left">
+---
+
+## 📌 **Linguagens Mais Usadas**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduu66&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&card_width=320"/>
+</p>
+
+---
+
+## 🛠️ **Tecnologias e Ferramentas**
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
@@ -29,7 +36,12 @@ Bem-vindo ao meu perfil do GitHub! Sou estudante de Sistemas de Informação na 
 
 ---
 
-### 📬 **Como me encontrar:**
+## 📬 **Como Me Encontrar**
+📧 Email: **carloseduardogurgel2016@gmail.com**  
+🔗 LinkedIn: [https://www.linkedin.com/in/carloseduu66/](https://www.linkedin.com/in/carloseduu66/)  
+📂 GitHub: [https://github.com/carloseduu66](https://github.com/carloseduu66)  
 
-📧 Email: carloseduardogurgel2016@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/carloseduu66/](https://www.linkedin.com/in/carloseduu66/)
+---
+
+### 🚀 **Sempre em busca de aprendizado e inovação!**
+Se gostou dos meus projetos, sinta-se à vontade para contribuir ⭐  
