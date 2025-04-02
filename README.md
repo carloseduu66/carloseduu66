@@ -28,8 +28,7 @@ Aqui você encontrará projetos que fazem parte da minha **jornada acadêmica e 
 ## 📬 **Como Me Encontrar**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="20"/> Email: **carloseduardogurgel2016@gmail.com**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20"/> LinkedIn: [carloseduu66](https://www.linkedin.com/in/carloseduu66/)  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-light-mode-only" alt="GitHub" width="20"/> GitHub: [carloseduu66](https://github.com/carloseduu66)  
-  
+
 ---
 
 ### 🚀 **Sempre em busca de aprendizado e inovação!**
