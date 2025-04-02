@@ -7,27 +7,19 @@ Aqui você encontrará projetos que fazem parte da minha **jornada acadêmica e 
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carloseduu66&show_icons=true&theme=tokyonight&hide_title=false&count_private=true"/>
-</p>
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloseduu66&show_icons=true&theme=tokyonight&hide_title=false&count_private=true)
 
 ---
 
 ## 📌 **Linguagens Mais Usadas**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduu66&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&card_width=320"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduu66&layout=compact&langs_count=8&theme=tokyonight&hide=html,css&card_width=320)
 
 ---
 
-## 🛠️ **Tecnologias e Ferramentas**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-</p>
+## 🛠️ **Tecnologias**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
 
 ---
 
