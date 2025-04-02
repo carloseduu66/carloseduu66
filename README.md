@@ -13,11 +13,6 @@ Aqui você encontrará projetos que fazem parte da minha **jornada acadêmica e 
 
 ---
 
-## 🔥 **Contribuições Recentes**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduu66&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 📌 **Linguagens Mais Usadas**
